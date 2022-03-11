@@ -1,0 +1,37 @@
+[
+{
+  "directory": "C:/Users/liorg/OneDrive - Technion/Desktop/technion/semester 2/CS/intro/hw1/build",
+  "command": "C:\\TDM-GCC-64\\bin\\x86_64-w64-mingw32-gcc.exe   -std=c99 --pedantic-errors -Wall -Werror -g   -o CMakeFiles\\chessSystem_exe.dir\\chessSystem.c.obj   -c \"C:\\Users\\liorg\\OneDrive - Technion\\Desktop\\technion\\semester 2\\CS\\intro\\hw1\\chessSystem.c\"",
+  "file": "C:/Users/liorg/OneDrive - Technion/Desktop/technion/semester 2/CS/intro/hw1/chessSystem.c"
+},
+{
+  "directory": "C:/Users/liorg/OneDrive - Technion/Desktop/technion/semester 2/CS/intro/hw1/build",
+  "command": "C:\\TDM-GCC-64\\bin\\x86_64-w64-mingw32-gcc.exe   -std=c99 --pedantic-errors -Wall -Werror -g   -o CMakeFiles\\chessSystem_exe.dir\\tournament.c.obj   -c \"C:\\Users\\liorg\\OneDrive - Technion\\Desktop\\technion\\semester 2\\CS\\intro\\hw1\\tournament.c\"",
+  "file": "C:/Users/liorg/OneDrive - Technion/Desktop/technion/semester 2/CS/intro/hw1/tournament.c"
+},
+{
+  "directory": "C:/Users/liorg/OneDrive - Technion/Desktop/technion/semester 2/CS/intro/hw1/build",
+  "command": "C:\\TDM-GCC-64\\bin\\x86_64-w64-mingw32-gcc.exe   -std=c99 --pedantic-errors -Wall -Werror -g   -o CMakeFiles\\chessSystem_exe.dir\\map.c.obj   -c \"C:\\Users\\liorg\\OneDrive - Technion\\Desktop\\technion\\semester 2\\CS\\intro\\hw1\\map.c\"",
+  "file": "C:/Users/liorg/OneDrive - Technion/Desktop/technion/semester 2/CS/intro/hw1/map.c"
+},
+{
+  "directory": "C:/Users/liorg/OneDrive - Technion/Desktop/technion/semester 2/CS/intro/hw1/build",
+  "command": "C:\\TDM-GCC-64\\bin\\x86_64-w64-mingw32-gcc.exe   -std=c99 --pedantic-errors -Wall -Werror -g   -o CMakeFiles\\chessSystem_exe.dir\\map_node.c.obj   -c \"C:\\Users\\liorg\\OneDrive - Technion\\Desktop\\technion\\semester 2\\CS\\intro\\hw1\\map_node.c\"",
+  "file": "C:/Users/liorg/OneDrive - Technion/Desktop/technion/semester 2/CS/intro/hw1/map_node.c"
+},
+{
+  "directory": "C:/Users/liorg/OneDrive - Technion/Desktop/technion/semester 2/CS/intro/hw1/build",
+  "command": "C:\\TDM-GCC-64\\bin\\x86_64-w64-mingw32-gcc.exe   -std=c99 --pedantic-errors -Wall -Werror -g   -o CMakeFiles\\chessSystem_exe.dir\\game.c.obj   -c \"C:\\Users\\liorg\\OneDrive - Technion\\Desktop\\technion\\semester 2\\CS\\intro\\hw1\\game.c\"",
+  "file": "C:/Users/liorg/OneDrive - Technion/Desktop/technion/semester 2/CS/intro/hw1/game.c"
+},
+{
+  "directory": "C:/Users/liorg/OneDrive - Technion/Desktop/technion/semester 2/CS/intro/hw1/build",
+  "command": "C:\\TDM-GCC-64\\bin\\x86_64-w64-mingw32-gcc.exe   -std=c99 --pedantic-errors -Wall -Werror -g   -o CMakeFiles\\chessSystem_exe.dir\\player.c.obj   -c \"C:\\Users\\liorg\\OneDrive - Technion\\Desktop\\technion\\semester 2\\CS\\intro\\hw1\\player.c\"",
+  "file": "C:/Users/liorg/OneDrive - Technion/Desktop/technion/semester 2/CS/intro/hw1/player.c"
+},
+{
+  "directory": "C:/Users/liorg/OneDrive - Technion/Desktop/technion/semester 2/CS/intro/hw1/build",
+  "command": "C:\\TDM-GCC-64\\bin\\x86_64-w64-mingw32-gcc.exe   -std=c99 --pedantic-errors -Wall -Werror -g   -o CMakeFiles\\chessSystem_exe.dir\\tests\\chessSystemTestsExample_nonServer.c.obj   -c \"C:\\Users\\liorg\\OneDrive - Technion\\Desktop\\technion\\semester 2\\CS\\intro\\hw1\\tests\\chessSystemTestsExample_nonServer.c\"",
+  "file": "C:/Users/liorg/OneDrive - Technion/Desktop/technion/semester 2/CS/intro/hw1/tests/chessSystemTestsExample_nonServer.c"
+}
+]

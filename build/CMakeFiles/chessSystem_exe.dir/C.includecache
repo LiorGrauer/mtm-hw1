@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/liorg/OneDrive - Technion/Desktop/technion/semester 2/CS/intro/hw1/chessSystem.h
+stdio.h
+-
+
+C:/Users/liorg/OneDrive - Technion/Desktop/technion/semester 2/CS/intro/hw1/test_utilities.h
+stdbool.h
+-
+stdio.h
+-
+
+C:/Users/liorg/OneDrive - Technion/Desktop/technion/semester 2/CS/intro/hw1/tests/chessSystemTestsExample_nonServer.c
+stdlib.h
+-
+../chessSystem.h
+C:/Users/liorg/OneDrive - Technion/Desktop/technion/semester 2/CS/intro/hw1/chessSystem.h
+../test_utilities.h
+C:/Users/liorg/OneDrive - Technion/Desktop/technion/semester 2/CS/intro/hw1/test_utilities.h
+

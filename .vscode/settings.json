@@ -1,0 +1,21 @@
+{
+    "C_Cpp.errorSquiggles": "Enabled",
+    "files.associations": {
+        "chesssystem.h": "c",
+        "stdbool.h": "c",
+        "assert.h": "c",
+        "stdio.h": "c",
+        "tournament.h": "c",
+        "map.h": "c",
+        "chessenums.h": "c",
+        "game.h": "c",
+        "player.h": "c",
+        "stdlib.h": "c",
+        "test_utilities.h": "c",
+        "functional": "cpp",
+        "chessutil.h": "c",
+        "*.tcc": "c",
+        "string": "c",
+        "string_view": "c"
+    }
+}

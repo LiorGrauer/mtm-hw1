@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/liorg/OneDrive - Technion/Desktop/technion/semester 2/CS/intro/hw1/map.c
+stdlib.h
+-
+stdio.h
+-
+map.h
+C:/Users/liorg/OneDrive - Technion/Desktop/technion/semester 2/CS/intro/hw1/map.h
+
+C:/Users/liorg/OneDrive - Technion/Desktop/technion/semester 2/CS/intro/hw1/map.h
+stdbool.h
+-
+
+C:/Users/liorg/OneDrive - Technion/Desktop/technion/semester 2/CS/intro/hw1/map_tests.c
+./map.h
+C:/Users/liorg/OneDrive - Technion/Desktop/technion/semester 2/CS/intro/hw1/map.h
+./map_use.h
+C:/Users/liorg/OneDrive - Technion/Desktop/technion/semester 2/CS/intro/hw1/map_use.h
+
+C:/Users/liorg/OneDrive - Technion/Desktop/technion/semester 2/CS/intro/hw1/map_use.c
+./map_use.h
+C:/Users/liorg/OneDrive - Technion/Desktop/technion/semester 2/CS/intro/hw1/map_use.h
+stdlib.h
+C:/Users/liorg/OneDrive - Technion/Desktop/technion/semester 2/CS/intro/hw1/stdlib.h
+
+C:/Users/liorg/OneDrive - Technion/Desktop/technion/semester 2/CS/intro/hw1/map_use.h
+stdio.h
+-
+string.h
+-
+stdlib.h
+-
+./map.h
+C:/Users/liorg/OneDrive - Technion/Desktop/technion/semester 2/CS/intro/hw1/map.h
+

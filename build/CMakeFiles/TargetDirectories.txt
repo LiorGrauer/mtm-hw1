@@ -1,0 +1,3 @@
+C:/Users/liorg/OneDrive - Technion/Desktop/technion/semester 2/CS/intro/hw1/build/CMakeFiles/chessSystem_exe.dir
+C:/Users/liorg/OneDrive - Technion/Desktop/technion/semester 2/CS/intro/hw1/build/CMakeFiles/edit_cache.dir
+C:/Users/liorg/OneDrive - Technion/Desktop/technion/semester 2/CS/intro/hw1/build/CMakeFiles/rebuild_cache.dir
